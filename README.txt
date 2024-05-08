@@ -1,3 +1,4 @@
+A deep learning model for detecting the grasping angle of toys
 深度學習期末報告第6組_2023_0110
 
 程式 :
